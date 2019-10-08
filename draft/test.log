@@ -1,0 +1,10 @@
+2018-07-31 10:48:06,180 INFO    : this is information
+2018-07-31 10:48:06,182 WARNING : this is warning message
+2018-07-31 10:48:06,182 ERROR   : this is error message
+2018-07-31 10:48:06,182 CRITICAL: this is fatal message, it is same as logger.critical
+2018-07-31 10:48:06,182 CRITICAL: this is critical message
+2018-07-31 10:49:33,427 INFO    : this is information
+2018-07-31 10:49:33,427 WARNING : this is warning message
+2018-07-31 10:49:33,427 ERROR   : this is error message
+2018-07-31 10:49:33,427 CRITICAL: this is fatal message, it is same as logger.critical
+2018-07-31 10:49:33,427 CRITICAL: this is critical message
